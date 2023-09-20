@@ -1,0 +1,32 @@
+.hero{
+    width:1200px;
+    height:400px;
+    border:2px solid pink;
+    border-radius:20px;
+    background-color: rgb(223, 204, 207);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inhero1{
+    height:80%;
+    width:40%;
+    background-color:aqua;
+}
+
+.inhero2{
+    overflow:scroll;
+    line-height:30px;
+    height:80%;
+    width:55%;
+    font-size: 20px;
+    /* background-color:aqua; */
+}
+
+.siksha{
+    padding-left:250px;
+    font-size: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+}
